@@ -2,16 +2,16 @@
 
 ### INSTALLATION FOR TERMUX👇
 
-`pkg update && pkg upgrade -y`
-`pkg install git`
-`pkg install nodejs`
-`pkg install nano`
-`git clone https://github.com/rizmyabdulla/blum-D4rk.git`
-`cd blum`
-`cd src`
-`cd data`
-`nano users.txt`
-`npm install`
-`npm run start`
+`pkg update && pkg upgrade -y`<br>
+`pkg install git`<br>
+`pkg install nodejs`<br>
+`pkg install nano`<br>
+`git clone https://github.com/rizmyabdulla/blum-D4rk.git`<br>
+`cd blum`<br>
+`cd src`<br>
+`cd data`<br>
+`nano users.txt`<br>
+`npm install`<br>
+`npm run start`<br>
 
 ### 🚨EDUCATIONAL PURPOSE ONLY
